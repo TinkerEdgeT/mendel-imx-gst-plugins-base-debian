@@ -2,11 +2,11 @@ imx-gst-plugins-base (1.12.2+imx-1) mendel-beaker; urgency=medium
 
   * Cut for beaker release and normalization of version.
   
- -- AIY Projects <support-aiyprojects@google.com>  Wed, 16 Jan 2019 12:00:00 -0800
+ -- AIY Projects <coral-support@google.com>  Wed, 16 Jan 2019 12:00:00 -0800
 
 imx-gst-plugins-base (1.12.2+imx-0) unstable; urgency=medium
 
   * Initial release
 
- -- AIY Projects <support-aiyprojects@google.com>  Wed, 04 Jul 2018 10:45:53 -0800
+ -- AIY Projects <coral-support@google.com>  Wed, 04 Jul 2018 10:45:53 -0800
 
