@@ -1,3 +1,9 @@
+imx-gst-plugins-base (1.12.2+imx-2) mendel-chef; urgency=medium
+
+  * Cut for chef release
+
+ -- Coral <coral-support@google.com>  Tue, 19 Mar 2019 17:08:25 -0700
+
 imx-gst-plugins-base (1.12.2+imx-1) mendel-beaker; urgency=medium
 
   * Cut for beaker release and normalization of version.
