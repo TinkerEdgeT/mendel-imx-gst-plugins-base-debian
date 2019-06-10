@@ -1,3 +1,9 @@
+imx-gst-plugins-base (1.14.4+imx-3) UNRELEASED; urgency=medium
+
+  * Update to 1.14.4
+
+ -- Coral <coral-support@google.com>  Wed, 05 Jun 2019 15:46:36 -0700
+
 imx-gst-plugins-base (1.12.2+imx-2) mendel-chef; urgency=medium
 
   * Cut for chef release
