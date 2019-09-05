@@ -73,9 +73,6 @@ ifneq ($(DEB_HOST_ARCH_OS),hurd)
 cdparanoia := debian/tmp/usr/lib/$(DEB_HOST_MULTIARCH)/gstreamer-$(gst_abi)/libgstcdparanoia.so
 endif
 
-# Let's decide the package name and url depending on the distribution
-DISTRO = "$(shell dpkg-vendor --query vendor)"
-
 GST_PACKAGE_NAME := "GStreamer Base Plugins"
 
 CFLAGS += -I$(shell realpath extinc)
@@ -131,6 +128,7 @@ DEB_CONFIGURE_EXTRA_FLAGS += \
 	--disable-glx \
 	--disable-opengl \
 	--enable-gles2 \
+	--disable-introspection \
 	--libdir=\$${prefix}/lib/$(DEB_HOST_MULTIARCH) \
 	--with-package-name=$(GST_PACKAGE_NAME) \
 	--with-install-plugins-helper="/usr/bin/gstreamer-codec-install"
