@@ -1,8 +1,14 @@
-imx-gst-plugins-base (1.14.4+imx-3) UNRELEASED; urgency=medium
+imx-gst-plugins-base (1.14.4+imx-4) mendel-day; urgency=medium
+
+  * Pack RGB buffers downloaded from GPU.
+
+ -- Coral <coral-support@google.com>  Tue, 15 Oct 2019 15:28:37 -0500
+
+imx-gst-plugins-base (1.14.4+imx-3) mendel-day; urgency=medium
 
   * Update to 1.14.4
 
- -- Coral <coral-support@google.com>  Wed, 05 Jun 2019 15:46:36 -0700
+ -- Coral <coral-support@google.com>  Tue, 15 Oct 2019 15:28:25 -0500
 
 imx-gst-plugins-base (1.12.2+imx-2) mendel-chef; urgency=medium
 
