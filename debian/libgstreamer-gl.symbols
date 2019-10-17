@@ -327,3 +327,4 @@ libgstgl-1.0.so.0 libgstreamer-gl1.0-0 #MINVER#
  gst_is_gl_memory_egl@Base 1.14.0
  gst_is_gl_memory_pbo@Base 1.14.0
  gst_is_gl_renderbuffer@Base 1.14.0
+ gst_gl_window_prefer_fullscreen@Base 1.14.4+imx-4
