@@ -1,3 +1,9 @@
+imx-gst-plugins-base (1.14.4+imx-5) mendel-day; urgency=medium
+
+  * Lintian fixes.
+
+ -- Coral <coral-support@google.com>  Tue, 22 Oct 2019 16:06:38 -0500
+
 imx-gst-plugins-base (1.14.4+imx-4) mendel-day; urgency=medium
 
   * Pack RGB buffers downloaded from GPU.
