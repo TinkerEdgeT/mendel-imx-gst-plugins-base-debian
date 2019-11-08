@@ -109,6 +109,9 @@ libgstgl-1.0.so.0 libgstreamer-gl1.0-0 #MINVER#
  (arch=linux-any)gst_gl_display_wayland_get_type@Base 1.14.0
  (arch=linux-any)gst_gl_display_wayland_new@Base 1.14.0
  (arch=linux-any)gst_gl_display_wayland_new_with_display@Base 1.14.0
+ gst_gl_display_x11_get_type@Base 1.14.0
+ gst_gl_display_x11_new@Base 1.14.0
+ gst_gl_display_x11_new_with_display@Base 1.14.0
  gst_gl_element_propagate_display_context@Base 1.14.0
  gst_gl_ensure_element_data@Base 1.14.0
  gst_gl_filter_add_rgba_pad_templates@Base 1.14.0

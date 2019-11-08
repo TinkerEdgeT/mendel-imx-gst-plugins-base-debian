@@ -124,7 +124,7 @@ DEB_CONFIGURE_EXTRA_FLAGS += \
 	--enable-debug \
 	--enable-experimental \
 	--enable-wayland \
-	--disable-x11 \
+	--enable-x11 \
 	--disable-glx \
 	--disable-opengl \
 	--enable-gles2 \
