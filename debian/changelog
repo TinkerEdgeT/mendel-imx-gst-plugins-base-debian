@@ -1,3 +1,9 @@
+imx-gst-plugins-base (1.14.4+imx-6) mendel-day; urgency=medium
+
+  * Fix dmabuf export of odd width textures in gldownload.
+
+ -- Coral <coral-support@google.com>  Tue, 02 Jun 2020 10:46:56 -0700
+
 imx-gst-plugins-base (1.14.4+imx-5) mendel-day; urgency=medium
 
   * Lintian fixes.
